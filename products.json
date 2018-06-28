@@ -1,6 +1,7 @@
 [
   {
-    "img_url": "../assets/mens_blue_buttondown.jpg",
+    "img_url":
+      "https://s3.amazonaws.com/ecommerce-demo/mens_blue_buttondown.jpg",
     "gender": "men",
     "category": "shirt",
     "title": "Blue Buttondown",
@@ -9,7 +10,8 @@
     "sale": true
   },
   {
-    "img_url": "../assets/mens_jeans_torn_knee.jpg",
+    "img_url":
+      "https://s3.amazonaws.com/ecommerce-demo/mens_jeans_torn_knee.jpg",
     "gender": "men",
     "category": "jeans",
     "title": "Torn knee Jeans",
@@ -18,7 +20,8 @@
     "sale": true
   },
   {
-    "img_url": "../assets/mens_shoe_brown_sneaker.jpg",
+    "img_url":
+      "https://s3.amazonaws.com/ecommerce-demo/mens_shoe_brown_sneaker.jpg",
     "gender": "men",
     "category": "shoe",
     "title": "Brown sneakers",
@@ -27,7 +30,8 @@
     "sale": false
   },
   {
-    "img_url": "../assets/womens_dress_pink_white.jpg",
+    "img_url":
+      "https://s3.amazonaws.com/ecommerce-demo/womens_dress_pink_white.jpg",
     "gender": "women",
     "category": "dress",
     "title": "Pink and white dress",
@@ -36,7 +40,8 @@
     "sale": true
   },
   {
-    "img_url": "../assets/womens_shoe_white_adidas.jpg",
+    "img_url":
+      "https://s3.amazonaws.com/ecommerce-demo/womens_shoe_white_adidas.jpg",
     "gender": "women",
     "category": "shoe",
     "title": "White adidas",
@@ -45,7 +50,8 @@
     "sale": false
   },
   {
-    "img_url": "../assets/mens_blue_hawaiian_buttondown.jpg",
+    "img_url":
+      "https://s3.amazonaws.com/ecommerce-demo/mens_blue_hawaiian_buttondown.jpg",
     "gender": "men",
     "category": "shirt",
     "title": "Hawaiian Buttondown",
@@ -54,7 +60,8 @@
     "sale": true
   },
   {
-    "img_url": "../assets/mens_light_grey_buttondown.jpg",
+    "img_url":
+      "https://s3.amazonaws.com/ecommerce-demo/mens_light_grey_buttondown.jpg",
     "gender": "men",
     "category": "shirt",
     "title": "Light grey buttondown",
@@ -63,7 +70,8 @@
     "sale": false
   },
   {
-    "img_url": "../assets/mens_white_striped_buttondown.jpg",
+    "img_url":
+      "https://s3.amazonaws.com/ecommerce-demo/mens_white_striped_buttondown.jpg",
     "gender": "men",
     "category": "shirt",
     "title": "White striped buttondown",
@@ -72,7 +80,7 @@
     "sale": true
   },
   {
-    "img_url": "../assets/womens_dress_red.jpg",
+    "img_url": "https://s3.amazonaws.com/ecommerce-demo/womens_dress_red.jpg",
     "gender": "women",
     "category": "dress",
     "title": "Red evening dress",
@@ -81,7 +89,8 @@
     "sale": false
   },
   {
-    "img_url": "../assets/womens_shoe_white_converse.jpg",
+    "img_url":
+      "https://s3.amazonaws.com/ecommerce-demo/womens_shoe_white_converse.jpg",
     "gender": "women",
     "category": "shoe",
     "title": "White Converse",
@@ -90,7 +99,8 @@
     "sale": false
   },
   {
-    "img_url": "../assets/mens_buttondown_paisley.jpg",
+    "img_url":
+      "https://s3.amazonaws.com/ecommerce-demo/mens_buttondown_paisley.jpg",
     "gender": "men",
     "category": "shirt",
     "title": "Floral Buttondown",
@@ -99,7 +109,8 @@
     "sale": false
   },
   {
-    "img_url": "../assets/mens_light_hawaiian_buttondown.jpg",
+    "img_url":
+      "https://s3.amazonaws.com/ecommerce-demo/mens_light_hawaiian_buttondown.jpg",
     "gender": "men",
     "category": "shirt",
     "title": "Hawaiian Buttondown",
@@ -108,7 +119,8 @@
     "sale": false
   },
   {
-    "img_url": "../assets/womens_dress_black_and_white.jpg",
+    "img_url":
+      "https://s3.amazonaws.com/ecommerce-demo/womens_dress_black_and_white.jpg",
     "gender": "women",
     "category": "dress",
     "title": "Black and white dress",
@@ -117,7 +129,7 @@
     "sale": false
   },
   {
-    "img_url": "../assets/womens_jeans_capri.jpg",
+    "img_url": "https://s3.amazonaws.com/ecommerce-demo/womens_jeans_capri.jpg",
     "gender": "women",
     "category": "jeans",
     "title": "Capris",
@@ -126,7 +138,8 @@
     "sale": false
   },
   {
-    "img_url": "../assets/womens_shoes_black_nike.jpg",
+    "img_url":
+      "https://s3.amazonaws.com/ecommerce-demo/womens_shoes_black_nike.jpg",
     "gender": "women",
     "category": "shoe",
     "title": "Black tennis shoes",
@@ -135,7 +148,7 @@
     "sale": false
   },
   {
-    "img_url": "../assets/mens_jeans_black.jpg",
+    "img_url": "https://s3.amazonaws.com/ecommerce-demo/mens_jeans_black.jpg",
     "gender": "men",
     "category": "jeans",
     "title": "Black Jeans",
@@ -144,7 +157,8 @@
     "sale": false
   },
   {
-    "img_url": "../assets/mens_shoe_blue_vans.jpg",
+    "img_url":
+      "https://s3.amazonaws.com/ecommerce-demo/mens_shoe_blue_vans.jpg",
     "gender": "men",
     "category": "shoe",
     "title": "Blue Slip Ons",
@@ -153,7 +167,8 @@
     "sale": false
   },
   {
-    "img_url": "../assets/womens_dress_black_and_white_formal.jpg",
+    "img_url":
+      "https://s3.amazonaws.com/ecommerce-demo/womens_dress_black_and_white_formal.jpg",
     "gender": "women",
     "category": "dress",
     "title": "Formal Dress",
@@ -162,7 +177,7 @@
     "sale": true
   },
   {
-    "img_url": "../assets/womens_jeans_denim.jpg",
+    "img_url": "https://s3.amazonaws.com/ecommerce-demo/womens_jeans_denim.jpg",
     "gender": "women",
     "category": "jeans",
     "title": "Denim Jeans",
@@ -171,7 +186,7 @@
     "sale": false
   },
   {
-    "img_url": "../assets/woments_dress_blue.jpg",
+    "img_url": "https://s3.amazonaws.com/ecommerce-demo/woments_dress_blue.jpg",
     "gender": "men",
     "category": "dress",
     "title": "Cocktail dress",
@@ -180,7 +195,8 @@
     "sale": false
   },
   {
-    "img_url": "../assets/mens_jeans_pattern_pocket.jpg",
+    "img_url":
+      "https://s3.amazonaws.com/ecommerce-demo/mens_jeans_pattern_pocket.jpg",
     "gender": "men",
     "category": "jeans",
     "title": "Decorative Jeans",
@@ -189,7 +205,8 @@
     "sale": false
   },
   {
-    "img_url": "../assets/mens_shoes_grey_chucks.jpg",
+    "img_url":
+      "https://s3.amazonaws.com/ecommerce-demo/mens_shoes_grey_chucks.jpg",
     "gender": "men",
     "category": "shoe",
     "title": "Chuck Taylors",
@@ -198,7 +215,8 @@
     "sale": false
   },
   {
-    "img_url": "../assets/womens_dress_pink_floral.jpg",
+    "img_url":
+      "https://s3.amazonaws.com/ecommerce-demo/womens_dress_pink_floral.jpg",
     "gender": "women",
     "category": "dress",
     "title": "Floral Dress",
@@ -207,7 +225,8 @@
     "sale": false
   },
   {
-    "img_url": "../assets/womens_jeans_faded_denom.jpg",
+    "img_url":
+      "https://s3.amazonaws.com/ecommerce-demo/womens_jeans_faded_denom.jpg",
     "gender": "women",
     "category": "jeans",
     "title": "Faded Jeans",
