@@ -1,0 +1,36 @@
+.store_container {
+  display: flex;
+}
+
+.store_body {
+  height: 92.5vh;
+  width: 80vw;
+}
+
+.items_container {
+  padding-top: 25px;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-evenly;
+  overflow: auto;
+  height: 87.5vh;
+  overflow: scroll;
+  overflow-x: hidden;
+}
+.items_container::-webkit-scrollbar {
+  width: 0px;
+  background: transparent;
+}
+.items_container::-webkit-scrollbar-thumb {
+  background: #ff0000;
+}
+.img_card {
+  border: 1px #ccc solid;
+  box-shadow: 3px 4px 4px #aaa;
+  max-height: 35vh;
+  width: 20vw;
+  /* margin-bottom: 15px; */
+}
+.img_card img {
+  margin-top: 30px;
+}

@@ -1,0 +1,32 @@
+.cart_container {
+  margin: auto;
+  width: 80vw;
+  border: 1px solid #ccc;
+  box-shadow: 5px 5px 10px -3px #aaa;
+  padding: 0 40px;
+  margin-top: 50px;
+  position: relative;
+  background: white;
+}
+
+.prod_container > ul {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  list-style: none;
+}
+
+.total {
+  position: absolute;
+  right: 20px;
+  bottom: -40px;
+  height: 50px;
+  width: 100px;
+  border: 1px solid #ccc;
+  background: white;
+  z-index: -1;
+  display: flex;
+  justify-content: flex-end;
+  align-items: flex-end;
+  padding: 10px;
+}

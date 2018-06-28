@@ -1,0 +1,23 @@
+.relative {
+  position: relative;
+  background-color: #ccc;
+  height: 90vh;
+}
+.side_nav_container {
+  width: 20vw;
+  /* position: absolute; */
+}
+.side_nav_container ul {
+  display: flex;
+  justify-content: space-evenly;
+  flex-direction: column;
+  align-items: center;
+  height: 85vh;
+}
+.side_nav_container ul a {
+  color: white;
+  text-decoration: none;
+}
+.side_nav_container ul a:hover {
+  cursor: pointer;
+}
