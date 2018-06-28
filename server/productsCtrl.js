@@ -36,7 +36,6 @@ module.exports = {
     const db = req.app.get("db");
     db.getCart(req.session.user.id)
       .then(cart => {
-        console.log("cart: ", cart);
         return res.status(200).json(cart);
       })
       .catch(console.log);
@@ -47,7 +46,6 @@ module.exports = {
     db.cart.update({ id: req.params.id }, { quantity }).then(() => {
       db.getCart(req.session.user.id)
         .then(cart => {
-          console.log("cart: ", cart);
           return res.status(200).json(cart);
         })
         .catch(console.log);
@@ -58,7 +56,6 @@ module.exports = {
     db.query("delete from cart where id = $1", req.params.id).then(() => {
       db.getCart(req.session.user.id)
         .then(cart => {
-          console.log("cart: ", cart);
           return res.status(200).json(cart);
         })
         .catch(console.log);

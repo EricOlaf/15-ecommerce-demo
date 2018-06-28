@@ -20,7 +20,6 @@ class NavBar extends Component {
     this.props.getProducts();
   }
   render() {
-    console.log(this.state);
     return (
       <div>
         <nav>

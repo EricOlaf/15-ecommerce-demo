@@ -53,7 +53,6 @@ app.get("/login", (req, res, next) => {
   passport.authenticate("auth0", (err, user, info) => {
     const db = req.app.get("db");
     db.customer.find({ auth_id: user.id }).then(([dbUser]) => {
-      console.log("dbUser: ", dbUser);
       if (!dbUser) {
         db.customer
           .insert({
@@ -76,11 +75,5 @@ app.get("/login", (req, res, next) => {
 });
 
 routes(app);
-app.get("/auth", (req, res) => {
-  // console.log("Successfully logged in", req.session.user);
-});
-app.get("/fail", (req, res) => {
-  console.log("Unsuccessfully logged in");
-});
 
 app.listen(PORT, console.log(`Listening @ ${PORT}`));
