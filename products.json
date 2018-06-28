@@ -1,0 +1,218 @@
+[
+  {
+    "img_url": "../assets/mens_blue_buttondown.jpg",
+    "gender": "men",
+    "category": "shirt",
+    "title": "Blue Buttondown",
+    "desc": "Light blue slim fitting button down shirt.",
+    "price": 25,
+    "sale": true
+  },
+  {
+    "img_url": "../assets/mens_jeans_torn_knee.jpg",
+    "gender": "men",
+    "category": "jeans",
+    "title": "Torn knee Jeans",
+    "desc": "Camo colored, mens jeans, torn knees.",
+    "price": 15,
+    "sale": true
+  },
+  {
+    "img_url": "../assets/mens_shoe_brown_sneaker.jpg",
+    "gender": "men",
+    "category": "shoe",
+    "title": "Brown sneakers",
+    "desc": "Light brown mens running shoes.",
+    "price": 45,
+    "sale": false
+  },
+  {
+    "img_url": "../assets/womens_dress_pink_white.jpg",
+    "gender": "women",
+    "category": "dress",
+    "title": "Pink and white dress",
+    "desc": "Casual pink and white dress with gold belt",
+    "price": 57,
+    "sale": true
+  },
+  {
+    "img_url": "../assets/womens_shoe_white_adidas.jpg",
+    "gender": "women",
+    "category": "shoe",
+    "title": "White adidas",
+    "desc": "White casual tennis shoes",
+    "price": 37,
+    "sale": false
+  },
+  {
+    "img_url": "../assets/mens_blue_hawaiian_buttondown.jpg",
+    "gender": "men",
+    "category": "shirt",
+    "title": "Hawaiian Buttondown",
+    "desc": "Casual button down shirt with a light blue hawaiian theme",
+    "price": 10,
+    "sale": true
+  },
+  {
+    "img_url": "../assets/mens_light_grey_buttondown.jpg",
+    "gender": "men",
+    "category": "shirt",
+    "title": "Light grey buttondown",
+    "desc": "Casual light grey buttondown shirt, slim fit.",
+    "price": 24,
+    "sale": false
+  },
+  {
+    "img_url": "../assets/mens_white_striped_buttondown.jpg",
+    "gender": "men",
+    "category": "shirt",
+    "title": "White striped buttondown",
+    "desc": "Casual white striped shirt, slim fit",
+    "price": 24,
+    "sale": true
+  },
+  {
+    "img_url": "../assets/womens_dress_red.jpg",
+    "gender": "women",
+    "category": "dress",
+    "title": "Red evening dress",
+    "desc": "Casual evening dress, red.",
+    "price": 76,
+    "sale": false
+  },
+  {
+    "img_url": "../assets/womens_shoe_white_converse.jpg",
+    "gender": "women",
+    "category": "shoe",
+    "title": "White Converse",
+    "desc": "White converse with red and blue trim.",
+    "price": 52,
+    "sale": false
+  },
+  {
+    "img_url": "../assets/mens_buttondown_paisley.jpg",
+    "gender": "men",
+    "category": "shirt",
+    "title": "Floral Buttondown",
+    "desc": "Black and white floral buttondown",
+    "price": 15,
+    "sale": false
+  },
+  {
+    "img_url": "../assets/mens_light_hawaiian_buttondown.jpg",
+    "gender": "men",
+    "category": "shirt",
+    "title": "Hawaiian Buttondown",
+    "desc": "Light casual buttondown with hawaiian theme.",
+    "price": 10,
+    "sale": false
+  },
+  {
+    "img_url": "../assets/womens_dress_black_and_white.jpg",
+    "gender": "women",
+    "category": "dress",
+    "title": "Black and white dress",
+    "desc": "Casual black and white evening dress with tan belt.",
+    "price": 67,
+    "sale": false
+  },
+  {
+    "img_url": "../assets/womens_jeans_capri.jpg",
+    "gender": "women",
+    "category": "jeans",
+    "title": "Capris",
+    "desc": "Light denim capri jeans with frayed hem",
+    "price": 20,
+    "sale": false
+  },
+  {
+    "img_url": "../assets/womens_shoes_black_nike.jpg",
+    "gender": "women",
+    "category": "shoe",
+    "title": "Black tennis shoes",
+    "desc": "Black nike tennis shoes with white trim",
+    "price": 99,
+    "sale": false
+  },
+  {
+    "img_url": "../assets/mens_jeans_black.jpg",
+    "gender": "men",
+    "category": "jeans",
+    "title": "Black Jeans",
+    "desc": "Black slim fit jeans,",
+    "price": 36,
+    "sale": false
+  },
+  {
+    "img_url": "../assets/mens_shoe_blue_vans.jpg",
+    "gender": "men",
+    "category": "shoe",
+    "title": "Blue Slip Ons",
+    "desc": "Dark blue slip on vans",
+    "price": 28,
+    "sale": false
+  },
+  {
+    "img_url": "../assets/womens_dress_black_and_white_formal.jpg",
+    "gender": "women",
+    "category": "dress",
+    "title": "Formal Dress",
+    "desc": "Black and white formal dress",
+    "price": 150,
+    "sale": true
+  },
+  {
+    "img_url": "../assets/womens_jeans_denim.jpg",
+    "gender": "women",
+    "category": "jeans",
+    "title": "Denim Jeans",
+    "desc": "Dark denim womens jeans.",
+    "price": 10,
+    "sale": false
+  },
+  {
+    "img_url": "../assets/woments_dress_blue.jpg",
+    "gender": "men",
+    "category": "dress",
+    "title": "Cocktail dress",
+    "desc": "Dark blue, v-necked Cocktail dress.",
+    "price": 99,
+    "sale": false
+  },
+  {
+    "img_url": "../assets/mens_jeans_pattern_pocket.jpg",
+    "gender": "men",
+    "category": "jeans",
+    "title": "Decorative Jeans",
+    "desc": "Mens blue jeans with awful pattern on the rump.",
+    "price": 250,
+    "sale": false
+  },
+  {
+    "img_url": "../assets/mens_shoes_grey_chucks.jpg",
+    "gender": "men",
+    "category": "shoe",
+    "title": "Chuck Taylors",
+    "desc": "High top, light grey converse chuck taylor's.",
+    "price": 50,
+    "sale": false
+  },
+  {
+    "img_url": "../assets/womens_dress_pink_floral.jpg",
+    "gender": "women",
+    "category": "dress",
+    "title": "Floral Dress",
+    "desc": "Pink, Black, and white floral dress",
+    "price": 63,
+    "sale": false
+  },
+  {
+    "img_url": "../assets/womens_jeans_faded_denom.jpg",
+    "gender": "women",
+    "category": "jeans",
+    "title": "Faded Jeans",
+    "desc": "Faded thigh, denim jeans.",
+    "price": 29,
+    "sale": true
+  }
+]
