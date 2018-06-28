@@ -28,9 +28,10 @@ class NavBar extends Component {
           </span>
           <div className="right_nav">
             <form
-              onSubmit={() =>
-                this.props.history.push(`/Store?q=${this.state.search}`)
-              }
+              onSubmit={e => {
+                e.preventDefault();
+                this.props.history.push(`/Store?q=${this.state.search}`);
+              }}
             >
               <Input
                 onChange={e => this.setState({ search: e.target.value })}
